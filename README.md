@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my skills<br>I am looking for collaborate with projects that help me to improve my skills<br>I am currently learning React and Express<br>ask me about my skills and my projects<br>fun fact I am too serious about my life
+I am currently working on my skills<br>I am looking for collaborate with projects that help me to improve my skills<br>I am currently learning React and Express<br>Ask me about JavaScript and React that is framework of javascript<br>fun fact I am too serious about my life
 
 
 ## 🌐 Socials:
