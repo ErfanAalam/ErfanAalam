@@ -1,5 +1,5 @@
 # 💫 Erfan Aalam:
-I am currently working on my skills<br>I am looking for collaborate with projects that help me to improve my skills<br>I am currently learning React and Express<br>Ask me about JavaScript and React that is framework of javascript<br>fun fact I am too serious about my life
+I am a MERN stack Developer <br>I am looking for collaborate with projects that help me to improve my skills<br>I am currently Working on my skills<br>Ask me about JavaScript and React that is framework of javascript<br>I am very sensiour and enjoying life
 
 
 ## 🌐 Socials:
