@@ -1,5 +1,5 @@
 # 💫 Erfan Aalam:
-I am a MERN stack Developer <br>I am looking for collaborate with projects that help me to improve my skills<br>I am currently Working on my skills<br>Ask me about Express and React that is framework of javascript <br> i am also an python developer
+I am a MERN stack Developer <br>I am looking for collaborate with projects that help me to improve my skills<br>I am currently Working on my skills<br>Ask me about Express and React that is framework of javascript <br> i am also an python developer and also have knowledge of React-native that helps to develope mobile apps
 
 
 ## 🌐 Socials:
