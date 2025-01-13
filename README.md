@@ -1,5 +1,8 @@
 # 💫 About Me:
- - I am a MERN stack Developer 🎇- I am looking for collaborate with projects that help me to improve my skills - I am currently start learning NextJS<br>Ask me about Express and React that is framework of javascript - I am also an python developer and also have knowledge of React-native that helps to develope mobile apps
+ - I am a MERN stack Developer 🎇
+ - I am looking for collaborate with projects that help me to improve my skills
+ - I am currently start learning NextJS<br>Ask me about Express and React that is framework of javascript
+ - I am also an python developer and also have knowledge of React-native that helps to develope mobile apps
 
 
 ## 🌐 Socials:
