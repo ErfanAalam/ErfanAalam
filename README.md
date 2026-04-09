@@ -1,8 +1,8 @@
 # 💫 About Me:
- - I am a MERN stack Developer 🎇
+ - I am a MERN stack Developer and Flutter developer 🎇
  - I am looking for collaborate with projects that help me to improve my skills
- - I am currently start learning NextJS
- - Ask me about Express and React that is framework of javascript
+ - I am currently start learning RUST
+ - Ask me about LLM's and New libraries that is in trending
  - I am also an python developer and also have knowledge of React-native that helps to develope mobile apps
 
 
