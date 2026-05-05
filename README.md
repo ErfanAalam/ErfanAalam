@@ -1,9 +1,10 @@
 # 💫 About Me:
- - I am a MERN stack Developer and Flutter developer 🎇
- - I am looking for collaborate with projects that help me to improve my skills
- - I am currently start learning RUST
- - Ask me about LLM's and New libraries that is in trending
- - I am also an python developer and also have knowledge of React-native that helps to develope mobile apps
+💻 Full-Stack Developer specializing in MERN & Flutter
+🚀 Building scalable web and cross-platform mobile applications
+🧠 Currently exploring Rust and systems-level programming
+🤝 Open to collaborating on impactful and challenging projects
+⚡ Passionate about LLMs, emerging tech, and modern developer tooling
+📱 Experience with React Native & Python for rapid product development
 
 
 ## 🌐 Socials:
