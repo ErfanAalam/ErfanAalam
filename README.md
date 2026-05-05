@@ -1,9 +1,14 @@
 # 💫 About Me:
 💻 Full-Stack Developer specializing in MERN & Flutter
+
 🚀 Building scalable web and cross-platform mobile applications
+
 🧠 Currently exploring Rust and systems-level programming
+
 🤝 Open to collaborating on impactful and challenging projects
+
 ⚡ Passionate about LLMs, emerging tech, and modern developer tooling
+
 📱 Experience with React Native & Python for rapid product development
 
 
